@@ -1,0 +1,1 @@
+This is a mini-project in the field of compiler design.An implementation of Lexical Analyser has been made by using lex.This can be downloaded as zip and run on the local ubuntu machine with lex installed in it.
